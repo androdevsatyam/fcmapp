@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BimaFCM</string>
+    <string name="FCM_BASE_URL">BimaFCM</string>
+    <string name="FCM_SERVER_KEY">https://fcm.googleapis.com/</string>
+<!--    <string name="image">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweRVhFaoNU0Gfm5zf6dhnhqI8k1w9DyW8o8vx2fKmSw&amp;s</string>-->
+<!--    debug {-->
+<!--    buildConfigField("String", "FCM_BASE_URL", "\"https://fcm.googleapis.com/\"")-->
+<!--    buildConfigField("String", "FCM_SERVER_KEY", "\"xxxxxxxxxxxxxxxxxxxxxxxx\"")-->
+<!--    }-->
+</resources>
